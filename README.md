@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TirthHPurohit
+- 👀 I’m interested in Native Mobile Application(Andorid/IOS)
+- 🌱 I’m currently learning Mobile Development
+- 📫 How to reach me tirthpurohit24052002@gmail.com
+- 😄 Pronouns: he/him
