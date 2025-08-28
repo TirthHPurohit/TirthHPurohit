@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TirthHPurohit
-- 👀 I’m interested in Native Mobile Application(Andorid/IOS)
-- 🌱 I’m currently learning Mobile Development
+- 👋 Hi, I’m Tirth Purohit
+- 👀 Android Developer with 2+ years’ experience building native mobile applications.
+- 🌱 Proficient in Kotlin, Jetpack Compose, and Firebase (Realtime DB, Storage, FCM), with expertise in authentication flows and push notifications
 - 📫 How to reach me tirthpurohit24052002@gmail.com
 - 😄 Pronouns: he/him
